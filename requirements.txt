@@ -1,0 +1,5 @@
+pandas==1.5.3
+numpy==1.23.5
+regex==2022.7.9
+scikit-learn==1.2.1
+streamlit==1.29.0
