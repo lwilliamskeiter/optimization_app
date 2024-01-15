@@ -1,11 +1,8 @@
-# & c:/Users/lwilliams/AppData/Local/anaconda3/python.exe
-
 import streamlit as st
 import pandas as pd
 import numpy as np
-import regex as re
 from sklearn import preprocessing
-
+import regex as re
 
 
 #%% Functions
